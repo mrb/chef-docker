@@ -7,6 +7,7 @@ Docker Cookbook
 The Docker Cookbook is a library cookbook that provides resources
 (LWRPs) for use in recipes.
 
+
 Scope
 -----
 This cookbook is concerned with the [Docker](http://docker.io)
